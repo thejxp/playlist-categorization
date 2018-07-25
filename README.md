@@ -1,9 +1,9 @@
 # Spotify Playlist Categorization
 
-✅ Uses pandas and numpy to visualize playlist characteristics and audio
+✅ Use Spotify API and pandas and numpy libraries to visualize playlist characteristics and audio
 features.
 
-✅ Uses Spotify API and Random Forest and LSTM models to learn how a user
+✅ Use Random Forest and LSTM models to learn how a user
 categorizes their playlists.
 
 🔜 Automate song bucketing process.
